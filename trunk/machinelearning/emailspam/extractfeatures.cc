@@ -1,4 +1,4 @@
-/* extract features from raw email (e.g., eml files) into an ARFF file
+/* extract features from raw email (i.e., eml files) into an ARFF file
  * that can be used with Weka. adopt some techniques from research
  * papers as well as from Paul Graham's "a plan for spam" and "better
  * bayesian filtering" articles.
